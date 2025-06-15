@@ -58,7 +58,7 @@ A comprehensive full-stack blog publishing platform that allows users to create,
    ```bash
    npm start
    ```
-   The server will run on http://localhost:5000
+   The server will run on http://localhost:5050
 
 ### Frontend Setup
 
