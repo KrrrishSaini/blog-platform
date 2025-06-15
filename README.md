@@ -56,7 +56,7 @@ A comprehensive full-stack blog publishing platform that allows users to create,
 
 4. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
    The server will run on http://localhost:5050
 
